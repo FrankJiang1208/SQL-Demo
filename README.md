@@ -26,4 +26,6 @@ Dispalyed all employees in the Sales and Development departments, including thei
 
 
 In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+Following Image is the ERD created from the dataset
 ![QuickDBD-Free Diagram](https://user-images.githubusercontent.com/39501874/140374323-424079a1-44e2-4ab2-97bf-cb3cbd67e0a0.png)
